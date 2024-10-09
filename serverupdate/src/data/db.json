@@ -1,0 +1,58 @@
+{
+  "employees": [
+    {
+      "id": "1",
+      "name": "Alice Johnson",
+      "designation": "Software Engineer",
+      "salary": 70000
+    },
+    {
+      "id": "2",
+      "name": "Bob Smith",
+      "designation": "Project Manager",
+      "salary": 95000
+    },
+    {
+      "name": "dipanshu",
+      "designation": "DevOps Engineer",
+      "salary": 80000,
+      "id": "4"
+    },
+    {
+      "name": "jiv",
+      "designation": "Quality Assurance",
+      "salary": "600002",
+      "id": "5"
+    },
+    {
+      "id": "8",
+      "name": "Henry Adams",
+      "designation": "Product Owner",
+      "salary": 95000
+    },
+    {
+      "id": "9",
+      "name": "Ivy Chen",
+      "designation": "Business Analyst",
+      "salary": 68000
+    },
+    {
+      "id": "10",
+      "name": "Jack Cooper",
+      "designation": "Technical Lead",
+      "salary": 100000
+    },
+    {
+      "id": "34",
+      "name": "asdfsd",
+      "designation": "fewre",
+      "salary": "988909"
+    },
+    {
+      "id": "345",
+      "name": "asdf",
+      "designation": "dere",
+      "salary": "3423"
+    }
+  ]
+}
